@@ -16,6 +16,7 @@ If you would like to see the in depth portions of the project, each folder here 
 In each of those folders you will find a write-up that describes the coding steps that were taken to perform each step of the project as well as a jupyter notebook that contains all of the code that was written to accomplish each of those tasks. If you have any questions about the project feel free to contact me!
 
 Capstone 2:
+
 In this project I used data that was descriptive of the traits of a large number of vehicles to attempt to create a model to predict the 
 MSRP of the vehicles. I then analyzed the feature importance of that model in an attempt to find the specific set of features that 
 minimized the RMSE of the MSRP prediction using XGBoost. After finding the model that resulted in the smallest RMSE with these methods I performed some additional analysis on the model results, and all of the specifics of this project are outlined in the final report of this project(yet to be completed). 
