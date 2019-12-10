@@ -1,8 +1,8 @@
-# Project_Portfolio
+# Project Portfolio
 This is Michael Buck's data science project portfolio, containing major projects I have completed in my path to become a competent 
 analyst. 
 
-The primary contents of this portfolio are the two capstone projects that I have completed for Sprinboard's Data Science Career Track 
+The primary contents of this portfolio are the two capstone projects that I have completed for Springboard's Data Science Career Track 
 Course. Below I will provide a brief summary of each of the projects and descriptions of the files in their respective files.
 
 Captsone 1:
