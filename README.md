@@ -13,6 +13,7 @@ If you would like to see the in depth portions of the project, each folder here 
 2. Data Story
 3. Exploratory Data Analysis
 4. In-Depth Analysis
+
 In each of those folders you will find a write-up that describes the coding steps that were taken to perform each step of the project as well as a jupyter notebook that contains all of the code that was written to accomplish each of those tasks. If you have any questions about the project feel free to contact me!
 
 Capstone 2:
